@@ -712,8 +712,6 @@ const TabContent = () => {
             <Tab>Homepage</Tab>
             <Tab>AI Red Teaming and Why Access Matters</Tab>
             <Tab>Barriers to Inclusive Red Teaming</Tab>
-            <Tab>Enabling Participation</Tab>
-            <Tab>Domain-Specific Governance</Tab>
             <Tab>Global Coordination</Tab>
             <Tab>Resources</Tab>
             <Tab>References</Tab>
@@ -993,31 +991,6 @@ const TabContent = () => {
                   To scale this model, international legal frameworks must support it. Future trade agreements or multilateral AI pacts could include cross-border protections for public-interest AI research—just as international treaties once codified norms for environmental science or copyright. These safeguards would empower researchers worldwide to challenge, test, and improve the systems that shape their lives.
                 </Text>
                
-              </VStack>
-            </TabPanel>
-            <TabPanel>
-              <VStack spacing={6} align="stretch">
-                <Heading as="h3" size="md">Domain-Specific Governance</Heading>
-                <Text>
-                  <b>Red teaming needs to be tailored to the domain and context in which AI is deployed:</b>
-                </Text>
-                <UnorderedList spacing={3}>
-                  <ListItem>
-                    <b>Healthcare:</b> Test for misdiagnosis, bias in medical data, and cultural appropriateness of health advice. (<Link href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00048-1/fulltext" isExternal color="blue.500">The Lancet Digital Health, 2023</Link>)
-                  </ListItem>
-                  <ListItem>
-                    <b>Education:</b> Evaluate for fairness in grading, accessibility for non-native speakers, and local curriculum alignment.
-                  </ListItem>
-                  <ListItem>
-                    <b>Finance:</b> Probe for discriminatory lending, fraud detection, and compliance with local regulations.
-                  </ListItem>
-                  <ListItem>
-                    <b>Public Sector:</b> Assess for transparency, accountability, and alignment with public values.
-                  </ListItem>
-                </UnorderedList>
-                <Text>
-                  <b>Effective governance requires:</b> (1) sector-specific standards, (2) local stakeholder input, and (3) ongoing monitoring and adaptation.
-                </Text>
               </VStack>
             </TabPanel>
             <TabPanel>
