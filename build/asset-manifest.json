@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/globalredteaming/static/css/main.3e5df098.css",
+    "main.js": "/globalredteaming/static/js/main.cd4dac5c.js",
+    "index.html": "/globalredteaming/index.html",
+    "main.3e5df098.css.map": "/globalredteaming/static/css/main.3e5df098.css.map",
+    "main.cd4dac5c.js.map": "/globalredteaming/static/js/main.cd4dac5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5df098.css",
+    "static/js/main.cd4dac5c.js"
+  ]
+}
